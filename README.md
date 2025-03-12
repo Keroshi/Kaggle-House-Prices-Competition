@@ -1,0 +1,1 @@
+This is a repo for the House Prices Competition hosted by Kaggle.
